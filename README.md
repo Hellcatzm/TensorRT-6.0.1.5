@@ -3,5 +3,5 @@
 [TensorRT Installation Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html#overview)<br>
 [TensorRT Developer Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#overview)<br>
 [Accelerating Inference In TF-TRT User Guide](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html)<br>
-[Using TensorRT in TensorFlow (TF-TRT)](Using TensorRT in TensorFlow (TF-TRT))<br>
+[Using TensorRT in TensorFlow (TF-TRT)](https://github.com/tensorflow/tensorflow/tree/r2.1/tensorflow/python/compiler/tensorrt)<br>
 [Documentation for TensorRT in TensorFlow (TF-TRT)](https://github.com/tensorflow/tensorrt)

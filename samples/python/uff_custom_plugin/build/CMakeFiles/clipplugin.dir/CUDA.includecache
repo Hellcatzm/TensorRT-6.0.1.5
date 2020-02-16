@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../plugin/clipKernel.h
+NvInfer.h
+../plugin/NvInfer.h
+
+/home/hellcatzm/下载/TensorRT-6.0.1.5/samples/python/uff_custom_plugin/plugin/clipKernel.cu
+clipKernel.h
+-
+
+/usr/include/x86_64-linux-gnu/NvInfer.h
+NvInferRuntime.h
+/usr/include/x86_64-linux-gnu/NvInferRuntime.h
+
+/usr/include/x86_64-linux-gnu/NvInferRuntime.h
+NvInferRuntimeCommon.h
+/usr/include/x86_64-linux-gnu/NvInferRuntimeCommon.h
+
+/usr/include/x86_64-linux-gnu/NvInferRuntimeCommon.h
+cstddef
+-
+cstdint
+-
+NvInferVersion.h
+/usr/include/x86_64-linux-gnu/NvInferVersion.h
+
+/usr/include/x86_64-linux-gnu/NvInferVersion.h
+

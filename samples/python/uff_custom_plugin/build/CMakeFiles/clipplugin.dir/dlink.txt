@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc    -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/clipplugin.dir/plugin/clipKernel.cu.o CMakeFiles/clipplugin.dir/plugin/customClipPlugin.cpp.o -o CMakeFiles/clipplugin.dir/cmake_device_link.o  -L/usr/local/cuda/targets/x86_64-linux/lib/stubs  -L/usr/local/cuda/targets/x86_64-linux/lib 

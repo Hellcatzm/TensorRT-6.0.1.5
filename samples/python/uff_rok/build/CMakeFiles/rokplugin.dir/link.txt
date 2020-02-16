@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wno-long-long -pedantic -Wno-deprecated-declarations  -shared  -o librokplugin.so CMakeFiles/rokplugin.dir/plugin/rokplugin.cpp.o /usr/lib/x86_64-linux-gnu/libnvinfer.so 

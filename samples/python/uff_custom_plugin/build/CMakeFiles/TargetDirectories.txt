@@ -1,0 +1,3 @@
+/home/hellcatzm/下载/TensorRT-6.0.1.5/samples/python/uff_custom_plugin/build/CMakeFiles/rebuild_cache.dir
+/home/hellcatzm/下载/TensorRT-6.0.1.5/samples/python/uff_custom_plugin/build/CMakeFiles/clipplugin.dir
+/home/hellcatzm/下载/TensorRT-6.0.1.5/samples/python/uff_custom_plugin/build/CMakeFiles/edit_cache.dir
